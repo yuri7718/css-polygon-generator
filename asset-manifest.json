@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/css-polygon-generator/static/css/main.525a2922.css",
+    "main.js": "/css-polygon-generator/static/js/main.534eb74a.js",
+    "static/js/453.2d1f291b.chunk.js": "/css-polygon-generator/static/js/453.2d1f291b.chunk.js",
+    "index.html": "/css-polygon-generator/index.html",
+    "main.525a2922.css.map": "/css-polygon-generator/static/css/main.525a2922.css.map",
+    "main.534eb74a.js.map": "/css-polygon-generator/static/js/main.534eb74a.js.map",
+    "453.2d1f291b.chunk.js.map": "/css-polygon-generator/static/js/453.2d1f291b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525a2922.css",
+    "static/js/main.534eb74a.js"
+  ]
+}
